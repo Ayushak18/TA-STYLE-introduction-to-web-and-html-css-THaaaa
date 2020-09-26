@@ -1,0 +1,17 @@
+body{
+    background:darkblue;
+    color: white;
+  
+ }
+ .heading-green{
+    color: greenyellow
+ }
+  
+ #underline-red{
+    color: rgb(255, 112, 112);
+ }
+
+ .center{
+     text-align: center;
+ }
+ 
